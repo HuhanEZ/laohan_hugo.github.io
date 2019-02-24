@@ -1,0 +1,9 @@
+Total number of random shuffles used of n=2 is 0
+Total number of random shuffles used of n=3 is 1
+Total number of random shuffles used of n=4 is 26
+Total number of random shuffles used of n=5 is 21
+Total number of random shuffles used of n=6 is 663
+Total number of random shuffles used of n=7 is 4545
+Total number of random shuffles used of n=8 is 35654
+Total number of random shuffles used of n=9 is 506055
+Total number of random shuffles used of n=10 is 1427487
